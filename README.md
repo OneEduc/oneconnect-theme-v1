@@ -43,10 +43,10 @@ The project also includes improvements to the translated messages for the langua
 ### Deployment to a standalone Keycloak server
 1. After installing Keycloak, navigate to the themes directory as in e.g.
 ```
- ~/development/keycloak-21.0.2/themes
+ C:\keycloak\themes
  ```
 2. Create a directory named *VerlaineSSO*.  
-3. Copy the *login* directory from this project to a *login* directory in the Alfresco theme directory you 
+3. Copy the *login* directory from this project to a *login* directory in the VerlaineSSO theme directory you 
 just created
 4. Start Keycloak
 
