@@ -20,7 +20,7 @@
         </script>
     <#elseif section = "form">
         <div>
-            <img class="logo" src="${url.resourcesPath}/img/android-chrome-192x192.png" alt="Verlaine">
+            <img class="logo" src="${url.resourcesPath}/img/icon.png" alt="Verlaine">
         </div>
         <div class="box-container">
             <div>
